@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #title{
 font-size: 4vw;
 padding-bottom: 0px;
@@ -90,97 +90,5 @@ h3{
      h3{
     font-size: 3.5vw;
      } 
-=======
-#title{
-font-size: 4vw;
-padding-bottom: 0px;
-margin: 0px;
-margin-top: 1%;
-text-shadow: 3px 3px 2px #34495e;
-color: #ffffff;
-}
 
-#description{
- font-size: 2vw;
- text-shadow: 3px 3px 2px #34495e;
-color: #ffffff;
-
-
-}
-
-
-#survey-form{
-display: flex;
-flex-direction: column;
-justify-content: center;
-align-items: center;
-background-color: #ecf0f1;
-opacity: 100%;
-width: 95%;
-border: 5px solid #7f8c8d;
-box-shadow: 10px 10px 5px #34495e;
-
-}
-
-
-#name{
-    background-color: #ecf0f1;
-    width: 25%;
-   size: 10%;
-}
-#email{
-    background-color: #ecf0f1;
-}
-#number{
-    background-color: #ecf0f1;
-}
-#name-label{
-
- 
-}
-#email-label{
-
-}
-#number-label{
-  
-}
-#dropdown{
-    background-color: #ecf0f1;
-}
-#submit{
-margin-bottom: 20px;
-font-size: 25px;
-width: 20%;
-border-radius: 5px;
-background-color: #3498db;
-}
-#other{
-margin-bottom: 20px;
-}
-main{
-display: flex;
-flex-direction: column;
-justify-content: center;
-align-items: center;
-
-}
-body{
-    background-color: #3498db;
-    height: 200%;
-}
-html{
-    min-height: 100%;
-}
-h3{
-    font-size: 2vw;
-}
-@media only screen and (max-width: 1000px ) {
-    #description{
-       font-size: 3.5vw;
-   }
-    
-     h3{
-    font-size: 3.5vw;
-     } 
->>>>>>> bb2b80fc41bcc9edc330f91843af75eb31272a65
     }
